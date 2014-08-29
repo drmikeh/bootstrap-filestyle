@@ -2,6 +2,10 @@
   "name": "bootstrap-filestyle",
   "version": "1.1.1",
   "homepage": "https://github.com/drmikeh/bootstrap-filestyle",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  },
   "authors": [
     "Markus Lima @markusslima"
     "Michael Hopper @drmikeh"
